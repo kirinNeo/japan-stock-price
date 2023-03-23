@@ -1,0 +1,4 @@
+pandas
+yfinance
+altair
+streamlit== 1.19.0
